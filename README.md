@@ -38,3 +38,12 @@ O que aprendemos nesta aula:
 - Fazer recursão;
 - Utilizar a função recur para dizer que estamos fazendo uma recursão.
 
+### Aula 02
+
+O que aprendemos nesta aula:
+
+- Como o reduce funciona;
+- Implementar o reduce;
+- Variação de parâmetros na função;
+- Utilizar o loop;
+- Fazer recorrência dentro do loop.
