@@ -47,3 +47,12 @@ O que aprendemos nesta aula:
 - Variação de parâmetros na função;
 - Utilizar o loop;
 - Fazer recorrência dentro do loop.
+
+### Aula 03
+
+O que aprendemos nesta aula:
+
+- Simular um banco em memória;
+- Utilizar o require para fazer a importação de classe;
+- Utilizar um as para abreviação;
+- Agrupar dados.
