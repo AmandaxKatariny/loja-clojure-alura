@@ -56,3 +56,15 @@ O que aprendemos nesta aula:
 - Utilizar o require para fazer a importação de classe;
 - Utilizar um as para abreviação;
 - Agrupar dados.
+
+### Aula 04
+
+O que aprendemos nesta aula:
+
+- Ordenar elementos com sort-by;
+- Utilizar o reverse;
+- Utilizar o get para pegar elementos por índice;
+- Utilizar o nth para pegar o enésimo elemento;
+- Utilizar o take para os dois primeiros elementos;
+- Utilizar o some para verificar alguma condição dentro de uma coleção.
+
