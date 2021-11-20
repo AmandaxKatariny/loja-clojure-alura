@@ -68,3 +68,11 @@ O que aprendemos nesta aula:
 - Utilizar o take para os dois primeiros elementos;
 - Utilizar o some para verificar alguma condição dentro de uma coleção.
 
+### Aula 05
+
+O que aprendemos nesta aula:
+
+- Utilizar o keep;
+- O que é comportamento EAGER e LAZY;
+- O que são chunked;
+- O que é uma lista ligada;
